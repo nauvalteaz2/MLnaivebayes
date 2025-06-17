@@ -1,4 +1,2 @@
-to run the ML
-phyton run main.py
-to run the streamlit
-python -m streamlit run app.py
+Untuk menjalankan ML: `python run main.py`  
+Untuk menjalankan Streamlit: `python -m streamlit run app.py`
